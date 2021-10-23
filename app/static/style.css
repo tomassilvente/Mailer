@@ -14,6 +14,10 @@ nav {
     padding-right: 30px;
     padding-top:30px;
 }
+#created{
+    position: fixed;
+    top: 15px;
+}
 .content{
     margin-left: 180px;
     margin-top: 30px;
